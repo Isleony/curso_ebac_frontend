@@ -1,0 +1,14 @@
+.produtos__control {
+    margin: 40px;
+
+    &__control {
+        margin-bottom: 16px;
+        font-family: sans-serif;
+    }
+    &--sendig{
+      cursor: wait;
+    }
+    &__submit {
+        cursor: pointer;
+    }
+}
